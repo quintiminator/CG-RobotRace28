@@ -1,0 +1,10 @@
+
+*.xml
+
+build/
+
+lib/
+
+*.mf
+
+nbproject/
